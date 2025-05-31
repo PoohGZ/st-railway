@@ -6,6 +6,10 @@ whitelistImportDomains:
   - files.catbox.moe
   - raw.githubusercontent.com
   - char-archive.evulid.cc
+  - janitorai.com
+  - jannyai.com
+  - sucker.severian.dev
+  
 
 # Expose ST so Railway can forward it to a domain
 listen: true
